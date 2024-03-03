@@ -31,7 +31,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
 
 
-------------------------------------------- 
+--------------------------------------------
 
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{ZaneDaniel11}/count.svg)
