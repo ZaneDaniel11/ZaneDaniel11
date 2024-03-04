@@ -36,6 +36,6 @@
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{ZaneDaniel11}/count.svg)
 
--------------------------------------------
+--------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneDaniel11&layout=compact&langs_count=10&hide=Batchfile,XSLT,Makefile,shell,dockerfile,Objective-C,Starlark,Ruby,Hack)](https://github.com/ZaneDaniel11/github-readme-stats)
 
