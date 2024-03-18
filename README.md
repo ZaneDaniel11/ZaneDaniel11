@@ -24,7 +24,7 @@ Hello mga yawa ako diay ni Subcribe and follow shessssssssssssshhhhhh
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://kinsta.com/wp-content/uploads/2021/03/941px-C_Sharp_logo.svg"> 
+<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://kinsta.com/wp-content/uploads/2021/03/941px-C_Sharp_logo.svg](https://kinsta.com/wp-content/uploads/2021/03/941px-C_Sharp_logo.svg-768x837.png)"> 
 
 
 
