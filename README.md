@@ -1,42 +1,37 @@
-<b>
-Hello mga yawa ako diay ni Subcribe and follow shessssssssssssshhhhhh 👍❤
-</b>
-
+[![@carlcastanas](https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif)](https://facebook.com/carlcastanas)
+------------------------------------------- 
+### Socials: 
+<a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
-<br>
-   <p align="left">
-      <a href="https://www.youtube.com/channel/UCjlSbX3_ONTQw67b4xjT1cA?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjlSbX3_ONTQw67b4xjT1cA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-       <a href="https://www.youtube.com/channel/UCjlSbX3_ONTQw67b4xjT1cA?sub_confirmation=1">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjlSbX3_ONTQw67b4xjT1cA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/yawaka21?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yawaka21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/yawaka21?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yawaka21?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+### How to reach me: 
+<a href="mailto: cacastanas@gmail.com">
+<img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
----
+### My Startup Tech Community:
 
-   🧰 Programming Languages
+[![Community](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG) 
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://kinsta.com/wp-content/uploads/2021/03/941px-C_Sharp_logo.svg-768x837.png"/> 
+### Icreatechs:
+<a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 
+### Current Status Quo:
 
+- 💼 Software Engineer
+- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Web Development</strong>, <strong>Cyber Security</strong>, and <strong>NFT Projects</strong>.
+
+------------------------------------------- 
+
+### Tools I work upon:
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">  <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"> <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 
 
-#
+[//]: <> (Credits: carlcastanas)
+[//]: <> (Credits: Last edited on: 01/12/23)
 
-   
-    
- <br>
 
-#
+------------------------------------------- 
 
-📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawaka21&show_icons=true&theme=gruvbox)
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
