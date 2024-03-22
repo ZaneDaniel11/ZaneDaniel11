@@ -19,7 +19,7 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <br>
+<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fphp_5968332&psig=AOvVaw2C1qiF3bKQlw1gpjcDmaZv&ust=1711187129533000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiNjfrKh4UDFQAAAAAdAAAAABAE" /> <br>
 
 
 ### Tools I work upon:
