@@ -5,7 +5,7 @@
 <br>
 ### How to reach me: 
 <a href="mailto: kramnotado22@gmail.com">
-<img src="https://img.shields.io/badge/-Zane Daniel%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-kramnotado22%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 
 ### Current Status Quo:
