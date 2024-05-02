@@ -1,5 +1,4 @@
-
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/ZaneDaniel11/ZaneDaniel11/assets/118499857/6e38d9e1-27e7-4736-9f11-a6aa759e34b2)
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/ZaneDaniel11/ZaneDaniel11/assets/118499857/05be8072-b880-42b5-898e-1c3c91a62899)
 -------------------------------------------
  
 ### Socials: 
