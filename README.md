@@ -11,7 +11,7 @@
 
 ### Current Status Quo:
 
-- Full Stack Developer
+- I code for fun
 - I'm a It Student in Cebu Roosevelt Memorial Colleges
 - 💬 Feel free to discuss with me about <strong>Web Development</strong>.
 
