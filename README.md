@@ -1,5 +1,6 @@
-![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/ZaneDaniel11/ZaneDaniel11/assets/118499857/05be8072-b880-42b5-898e-1c3c91a62899)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/ZaneDaniel11/ZaneDaniel11/assets/118499857/b7a0065f-6b61-4ff0-b33b-5415fe771ff0)
 -------------------------------------------
+
  
 ### Socials: 
 <a href="https://www.youtube.com/@RedBlue111"><img src="https://img.shields.io/badge/Zanedaniel-FF0000?style=for-the-badge&logo=youtube&logoColor=white%22"></a> <a href="https://www.instagram.com/zane_daniel200?fbclid=IwAR2SJ3suO5mKna05HTVF0QV8DFohM62eWFWyNc0PSrLJX5mU6Ck6zVGsimI"><img src="https://img.shields.io/badge/Zane Daniel-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://ph.linkedin.com/in/zane-daniel"><img src="https://img.shields.io/badge/Zane Daniel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/markdaniel.notado.94/"><img src="https://img.shields.io/badge/Zane Daniel-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
