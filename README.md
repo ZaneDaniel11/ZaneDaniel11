@@ -39,6 +39,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{ZaneDaniel11}/count.svg)
 
 ### Status
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zanedaniel11)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zanedaniel11&theme=transparent&border_radius=5)](https://git.io/streak-stats)
 
 
