@@ -24,7 +24,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
-<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*Hdm7hBTZ-hKlbtlV.png" />
+<img align="left" alt="Php" width="30px" style="padding-right: 10px;" src="https://camo.githubusercontent.com/c8fada00fabc110a5651fd489a98277b0c005a709d69c9dcc1ab3d8bde074510/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" />
 
 <br>
 
