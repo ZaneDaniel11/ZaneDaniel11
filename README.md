@@ -1,5 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/ZaneDaniel11/ZaneDaniel11/assets/118499857/b7a0065f-6b61-4ff0-b33b-5415fe771ff0)
--------------------------------------------
+![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/e70f7397-0920-45a5-8d0d-4184651f0fee)
+-------------------------------------------------------------
 
  
 ### Socials: 
