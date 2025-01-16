@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-kramnotado22%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white"></a>
 
 ### Current Status Quo:
-- I code for fun
+- Coding has become my passion.
 - I'm an IT Student at Cebu Roosevelt Memorial Colleges
 - 💬 Feel free to discuss with me about <strong>Web Development</strong>.
 
