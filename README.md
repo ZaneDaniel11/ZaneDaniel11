@@ -3,7 +3,10 @@
 
  
 ### Socials: 
-<a href="https://www.youtube.com/@RedBlue111"><img src="https://img.shields.io/badge/Zanedaniel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.instagram.com/zane_daniel200?fbclid=IwAR2SJ3suO5mKna05HTVF0QV8DFohM62eWFWyNc0PSrLJX5mU6Ck6zVGsimI"><img src="https://img.shields.io/badge/Zane Daniel-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://ph.linkedin.com/in/zane-daniel"><img src="https://img.shields.io/badge/Zane Daniel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/markdaniel.notado.94/"><img src="https://img.shields.io/badge/Zane Daniel-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.youtube.com/@RedBlue111"><img src="https://img.shields.io/badge/Zanedaniel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/zane_daniel200?fbclid=IwAR2SJ3suO5mKna05HTVF0QV8DFohM62eWFWyNc0PSrLJX5mU6Ck6zVGsimI"><img src="https://img.shields.io/badge/Zane Daniel-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://ph.linkedin.com/in/zane-daniel"><img src="https://img.shields.io/badge/Zane Daniel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/markdaniel.notado.94/"><img src="https://img.shields.io/badge/Zane Daniel-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 <br>
 
@@ -20,18 +23,13 @@
 
 ### Programming languages:
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /> <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" /> <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> <img align="left" alt="C# Dapper" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/54219511?s=280&v=4" /> <br>
 
 <br>
 
 ### Tools I work upon:
 
-<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
+<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 --------------------------------------------
 
