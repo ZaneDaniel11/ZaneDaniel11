@@ -1,7 +1,6 @@
 ![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/e70f7397-0920-45a5-8d0d-4184651f0fee)
 -------------------------------------------------------------
 
- 
 ### Socials: 
 <a href="https://www.youtube.com/@RedBlue111"><img src="https://img.shields.io/badge/Zanedaniel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.instagram.com/zane_daniel200?fbclid=IwAR2SJ3suO5mKna05HTVF0QV8DFohM62eWFWyNc0PSrLJX5mU6Ck6zVGsimI"><img src="https://img.shields.io/badge/Zane Daniel-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -32,9 +31,9 @@
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> 
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> 
+<img align="left" alt="AJAX" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" /> 
 <br>
-
-
 
 ### Tools I work upon:
 
@@ -47,6 +46,3 @@
 
 ### Status:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zanedaniel11&theme=transparent&border_radius=5)
-
-
-
