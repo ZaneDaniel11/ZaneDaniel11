@@ -15,7 +15,7 @@
 
 ### Current Status Quo:
 - Coding has become my passion.
-- I'm an IT Student at Cebu Roosevelt Memorial Colleges
+- Graduated at Cebu Roosevelt Memorial Colleges
 - 💬 Feel free to discuss with me about <strong>Web Development</strong>.
 
 ------------------------------------------- 
