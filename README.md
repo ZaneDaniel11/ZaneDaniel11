@@ -27,7 +27,7 @@
 
 ## 🚀 Current Status  
 - 💻 Coding has become my passion.  
-- 🎓 Graduated at **Cebu Roosevelt Memorial Colleges**  
+- 🎓 Full stack developer @SaleSnap  
 - 💬 Open to discussions about **Web Development**  
 
 ---
