@@ -27,7 +27,7 @@
 
 ## 🚀 Current Status  
 - 💻 Coding has become my passion.  
-- 🎓 Full stack developer @SaleSnap  
+- 🎓 Full stack software engineer
 - 💬 Open to discussions about **Web Development**  
 
 ---
