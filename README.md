@@ -27,7 +27,7 @@
 
 ## 🚀 Current Status  
 - 💻 Coding has become my passion.  
-- 🎓 Full stack software engineer
+- 🎓 Full stack software Developer
 - 💬 Open to discussions about **Web Development**  
 
 ---
